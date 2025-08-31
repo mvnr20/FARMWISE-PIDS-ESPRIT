@@ -37,7 +37,6 @@ On the sidebar, you'll find three upload buttons. To enable all features, please
 - **Sensor Dataset:** For the dashboard and energy optimization.  
 - **Market Dataset:** For market price analysis.
 
-> **Note:** If you don’t have all the files, some features may not be available.
 
 ### Step 2: Navigate the Tabs
 - **Dashboard:** View sensor and market price data at a glance.  
