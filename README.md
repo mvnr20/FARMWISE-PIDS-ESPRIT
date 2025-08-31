@@ -80,7 +80,7 @@ To download this file, copy the content and paste it into a text editor. Save it
 3. **Create Virtual Environment & Activate It**
 ```
 python -m venv venv
-venv\Scripts\activate 
+venv\Scripts\Activate.ps1
 ```
 4. **Install Requirements**
 ```
